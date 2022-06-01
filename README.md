@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Initio - Free, multipurpose html5 template
 =============
 
@@ -30,3 +31,7 @@ Photos used in the template
 * http://www.publicdomainpictures.net/view-image.php?image=6354
 * http://imcreator.com/free/business/macbook-computer
 * http://unsplush.com
+=======
+# Transmition-Online-TVV
+Practica para la materia de Transmisión de Voz y Video de la Carrera de Ingeniería Informática. UAJMS Yacuiba - Bolivia
+>>>>>>> d00ef12e3e305c119c63da260e59faa8317aae3b
